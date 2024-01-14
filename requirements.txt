@@ -1,0 +1,16 @@
+requests
+setuptools
+uvicorn
+starlette
+pydantic
+starlette-exporter
+python-multipart
+fastapi-utils
+fastapi
+streamlit
+mlflow
+scikit-learn
+numpy
+pandas
+matplotlib
+# Add any additional libraries as needed
