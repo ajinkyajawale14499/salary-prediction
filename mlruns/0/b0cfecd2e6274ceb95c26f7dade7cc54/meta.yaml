@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/b0cfecd2e6274ceb95c26f7dade7cc54/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b0cfecd2e6274ceb95c26f7dade7cc54
+run_name: burly-stoat-919
+run_uuid: b0cfecd2e6274ceb95c26f7dade7cc54
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705269141259
+status: 1
+tags: []
+user_id: ajinkyajawale
